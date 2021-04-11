@@ -64,6 +64,7 @@ body {
     border-radius: 20px;
     padding: 20px;
     margin-bottom: 50px;
+    box-shadow: #ccc 3px 3px 10px;
 }
 
 hr {
